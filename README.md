@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,8 +44,10 @@
 |  |
 | ------- |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
