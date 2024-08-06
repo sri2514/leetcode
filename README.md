@@ -18,12 +18,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
