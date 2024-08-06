@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sri2514/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
