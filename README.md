@@ -30,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sri2514/leetcode/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sri2514/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
