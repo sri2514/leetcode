@@ -20,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sri2514/leetcode/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
