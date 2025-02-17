@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 ## Simulation
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
