@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 ## Simulation
 |  |
