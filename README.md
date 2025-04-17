@@ -10,6 +10,7 @@
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sri2514/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -113,4 +115,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
