@@ -16,6 +16,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3582-find-indices-of-stable-mountains](https://github.com/sri2514/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
