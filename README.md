@@ -128,4 +128,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sri2514/leetcode/tree/master/0035-search-insert-position) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sri2514/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
