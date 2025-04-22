@@ -45,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/sri2514/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/sri2514/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sri2514/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sri2514/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sri2514/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
