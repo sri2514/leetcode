@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sri2514/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sri2514/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
@@ -54,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/sri2514/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sri2514/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/sri2514/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
