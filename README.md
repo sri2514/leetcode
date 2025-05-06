@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/sri2514/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sri2514/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
