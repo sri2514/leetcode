@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sri2514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sri2514/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/sri2514/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sri2514/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sri2514/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sri2514/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
