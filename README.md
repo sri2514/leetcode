@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -108,6 +109,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sri2514/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sri2514/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
