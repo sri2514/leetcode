@@ -27,6 +27,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sri2514/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sri2514/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/sri2514/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/sri2514/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sri2514/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/sri2514/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## String Matching
 |  |
 | ------- |
