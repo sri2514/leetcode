@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/sri2514/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sri2514/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sri2514/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sri2514/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -154,6 +157,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sri2514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,4 +204,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sri2514/leetcode/tree/master/0724-find-pivot-index) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
