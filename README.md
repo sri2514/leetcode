@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/sri2514/leetcode/tree/master/0724-find-pivot-index) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sri2514/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1677-matrix-diagonal-sum](https://github.com/sri2514/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -110,6 +111,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/sri2514/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/sri2514/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Stack
