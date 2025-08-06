@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sri2514/leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -65,6 +66,7 @@
 | [0043-multiply-strings](https://github.com/sri2514/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sri2514/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sri2514/leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/sri2514/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sri2514/leetcode/tree/master/0680-valid-palindrome-ii) |
