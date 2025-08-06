@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sri2514/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sri2514/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sri2514/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sri2514/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sri2514/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sri2514/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sri2514/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sri2514/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri2514/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sri2514/leetcode/tree/master/0198-house-robber) |
 ## Simulation
