@@ -79,6 +79,7 @@
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sri2514/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/sri2514/leetcode/tree/master/0812-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri2514/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/sri2514/leetcode/tree/master/0812-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
