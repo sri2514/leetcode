@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/sri2514/leetcode/tree/master/0724-find-pivot-index) |
+| [0940-fruit-into-baskets](https://github.com/sri2514/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sri2514/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sri2514/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/sri2514/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -46,6 +47,7 @@
 | [0290-word-pattern](https://github.com/sri2514/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sri2514/leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/sri2514/leetcode/tree/master/0940-fruit-into-baskets) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri2514/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/sri2514/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
