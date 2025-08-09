@@ -227,4 +227,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/sri2514/leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/sri2514/leetcode/tree/master/0299-bulls-and-cows) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sri2514/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
