@@ -1,7 +1,6 @@
 class Solution {
     public int romanToInt(String s) {
-        //String[]  symbols = {"I","V","X","L","C","D","M"}
-        //int[] val = {1,5,10,50,100,500,1000}
+
         Map<Character,Integer> mp = new HashMap<>();
         mp.put('I',1);
         mp.put('V',5);
