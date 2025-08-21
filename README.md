@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sri2514/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sri2514/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sri2514/leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sri2514/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sri2514/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/sri2514/leetcode/tree/master/0046-permutations) |
