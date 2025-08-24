@@ -26,6 +26,7 @@
 | [0228-summary-ranges](https://github.com/sri2514/leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sri2514/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sri2514/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sri2514/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/sri2514/leetcode/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@
 | [0290-word-pattern](https://github.com/sri2514/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sri2514/leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/sri2514/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sri2514/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sri2514/leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/sri2514/leetcode/tree/master/0940-fruit-into-baskets) |
 | [3227-find-missing-and-repeated-values](https://github.com/sri2514/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -69,6 +71,7 @@
 | [0344-reverse-string](https://github.com/sri2514/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri2514/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sri2514/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sri2514/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sri2514/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -134,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/sri2514/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sri2514/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sri2514/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/sri2514/leetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sri2514/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
@@ -207,6 +211,7 @@
 | [0069-sqrtx](https://github.com/sri2514/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sri2514/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sri2514/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sri2514/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Graph
 |  |
 | ------- |
